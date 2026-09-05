@@ -1,4 +1,4 @@
-;;; 64tass-mode
+;;; 64tass-mode  -*- lexical-binding: t; -*-
 ;;
 ;; (Started out as dasm-mode,
 ;; http://www.cling.gu.se/~cl3polof/dasm-mode.el -- but I think it's
